@@ -21,8 +21,4 @@ excerpt: "post excerpt"
 ---
 
 This is a test to see how to enter content.
-<figure style="width: 80px" class="align-center">
-  <a href="/assets/images/pixel_tracker_logo_120px.jpg" title="The Pixel Tracker logo" alt="The Pixel Tracker logo">
-  <img src="/assets/images/pixel_tracker_logo_120px.jpg" alt=""></a>
-  <figcaption>Image caption.</figcaption>
-</figure>
+![An image](/assets/images/pixel_tracker_logo_120px.jpg)
