@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: "Welcome to Deep Astronomy"
+title: "Original Astronomy Content"
 date: 2023-04-05 09:00:00 +0000
 show_date: false
 read_time: false
@@ -14,10 +14,10 @@ header:
   #overlay_color: green
   caption: "Image Caption here"
   actions:
-    - label: "See More"
+    - label: "Learn More"
       url: /index.html
-excerpt: "post excerpt"
-#tagline: "tagline"
+excerpt: "We create original astronomy content - for you to use!"
+tagline: "tagline"
 ---
 
 This is a test to see how to enter **content**.
