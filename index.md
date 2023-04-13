@@ -17,7 +17,7 @@ header:
     - label: "Learn More"
       url: /index.html
 excerpt: "We create original astronomy content - for you to use!"
-tagline: "tagline"
+#tagline: "tagline"
 ---
 
 This is a test to see how to enter **content**.
