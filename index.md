@@ -25,6 +25,3 @@ excerpt: "We create original astronomy content"
 
 This is a test to see how to enter **content**.
 ![An image](/assets/images/pixel_tracker_logo_120px.jpg){: .align-right}
-~                                                                                    
-~                                                                                    
-~                                                                          
