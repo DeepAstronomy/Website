@@ -15,10 +15,10 @@ header:
   caption: "Image Caption here"
   actions:
     - label: "Learn More"
-      url: /about.html
+      url: /
 excerpt: "About Deep Astronomy"
-#tagline: "tagline"
 permalink: "/about/"
+#tagline: "tagline"
 ---
 <h1>So this is how the story goes... </h1>
 It all started on labor day 2006, I had just gotten my first Macbook after decades of avoiding Apple products.

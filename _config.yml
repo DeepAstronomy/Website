@@ -153,10 +153,9 @@ footer:
 
 
 # Reading Files
-include: ['_pages']
 include:
   - .htaccess
-  - ['_pages']
+  - _pages
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -294,8 +293,7 @@ defaults:
 defaults:
   # _pages
   - scope:
-      path: ""
-      type: pages
+      path: "_pages/"
     values:
       layout: single
       author_profile: false
