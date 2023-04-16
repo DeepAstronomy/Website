@@ -26,7 +26,7 @@ We live in a world where everyone has a website, podcast, social media channel a
 
 What all of them need however is more content.  One can never have enough content to feed hungry algorithms that are key for building your brand or audience.
 
-Radio stations, local TV and live-streaming apps are always on the lookout for compelling content that keeps people tuned in.  Nothing does that better than quality astronomy content.
+Radio stations, local TV and live-streaming apps are always on the lookout for compelling content that keeps people tuned in.  Nothing does that better than quality astronomy content. So there.
 
 <h2>Everyone is Interested in Astronomy</h2>
 
