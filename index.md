@@ -14,9 +14,9 @@ header:
   #overlay_color: green
   caption: "Illustration of Exoplanet VHS 1256b"
   actions:
-    - label: "Learn More"
+    - label: "Coming Soon!"
       url: "/content/"
-excerpt: "Make astronomy content part of your program"
+excerpt: "Astronomy Programs for Radio and Podcasters"
 #tagline: "tagline"
 ---
 
@@ -39,17 +39,16 @@ Including astronomy content in your communication plan gives you an avenue to sp
 
 All you need to incorporate our content is a natural curiosity about the stars, planets and galaxies in our amazing universe.  Learn along with your audience and discuss the topics together, reaching conclusions and making connections that didn't exist before.  You and your audience and gain a new perspective that shakes your world view and expands your horizons.
 
-If you are a **science communicator, radio station or live streaming platform**, you can incorporate our material to enhance your efforts and help expand your audience.
+If you are a **radio station or podcaster**, you can incorporate our material to enhance your efforts and help expand your audience.
 
 <h2>Understandable by Everyone!</h2>
 
 We've write and produce our content to be understandable and interesting to everyone, regardless of their knowledge level or education.  Beginners are exposed to new concepts and experts will experience familiar ideas from a unique perspective.
 
 <h2>Who Can Use Astronomy Content?</h2>
-- Science Communicators (YouTube, Instagram, Twitter, TikTok)
 - Radio Stations
 - Podcasters
-- Streaming Platforms (Tubi, Roku)
+- Science Communicators (YouTube, Instagram, Twitter, TikTok)
 
 <h2>All Licenses Granted</h2>
 
