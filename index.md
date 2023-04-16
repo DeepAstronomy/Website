@@ -15,7 +15,7 @@ header:
   caption: "Illustration of Exoplanet VHS 1256b"
   actions:
     - label: "Learn More"
-      url: /index.html
+      url: "/content/"
 excerpt: "Make astronomy content part of your program"
 #tagline: "tagline"
 ---
