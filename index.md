@@ -1,6 +1,6 @@
 ---
 layout: single
-author_profile: true
+author_profile: false
 title: "Original Astronomy Content"
 date: 2023-04-05 09:00:00 +0000
 show_date: false
@@ -12,16 +12,43 @@ header:
   show_overlay_excerpt: true
   #og_image:
   #overlay_color: green
-  caption: "Image Caption here"
+  caption: "Illustration of Exoplanet VHS 1256b"
   actions:
     - label: "Learn More"
       url: /index.html
-excerpt: "We create original astronomy content"
+excerpt: "Make astronomy content part of your program"
 #tagline: "tagline"
 ---
 
+<h1>We All Need More Content</h1>
 
-<h1>Astronomy Content For You</h1>
+We live in a world where everyone has a website, podcast, social media channel and/or traditional media outlets available to them.  Some of these means of communication are easy to set up, others not so much.
 
-This is a test to see how to enter **content**.
-![An image](/assets/images/pixel_tracker_logo_120px.jpg){: .align-right}
+What all of them need however is more content.  One can never have enough content to feed hungry algorithms that are essential for building your brand or audience.
+
+<h2>Everyone is Interested in Astronomy</h2>
+
+![An image](/assets/images/everyone-loves-astronomy.png){: .align-right}
+It doesn't matter what your brand focus is, human beings are naturally curious about the universe and our place within it.  Including astronomy content in your program is a natural way to spark interesting conversations with your audience and increase the all-important engagement we all strive to achieve with our online communities. 
+
+Including astronomy content in your communication plan gives you an avenue to spark curiosity and keep your efforts fresh without any extra work. 
+
+<h2>You Don't Need to Know Anything About Astronomy</h2>
+
+All you need to use our content is a natural curiosity about the stars, planets and galaxies in our amazing universe.  Learn along with your audience and discuss the topics together, reaching conclusions and making connections that didn't exist before.  You and your audience and gain a new perspective that shakes your world view and expands your horizons.
+
+**If you are a science communicator**, radio station or live streaming platform, you can incorporate our material to enhance your efforts and help expand your audience.
+
+<h2>Understandable by Everyone!</h2>
+
+We've write and produce our content to be understandable and interesting to everyone, regardless of their knowledge level or education.  Beginners are exposed to new concepts and experts will experience familiar ideas from a unique perspective.
+
+<h2>Who Can Use Astronomy Content?</h2>
+- Science Commumicators (YouTube, Instagram, Twitter, TikTok)
+- Radio Stations
+- Podcasters
+- Streaming Platforms (Tubi, Roku)
+
+<h2>All Licenses Granted</h2>
+
+When you sign up for our content streams, you'll get full access and rights to use it in all of your social media channels and traditional media - forever.
