@@ -43,7 +43,7 @@ If you are a **radio station or podcaster**, you can incorporate our material to
 
 <h2>Understandable by Everyone!</h2>
 
-We've write and produce our content to be understandable and interesting to everyone, regardless of their knowledge level or education.  Beginners are exposed to new concepts and experts will experience familiar ideas from a unique perspective.
+We write and produce our content to be understandable and interesting to everyone, regardless of their knowledge level or education.  Beginners are exposed to new concepts and experts will experience familiar ideas from a unique perspective.
 
 <h2>Who Can Use Astronomy Content?</h2>
 - Radio Stations
