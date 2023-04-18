@@ -5,7 +5,7 @@ title: "Astronomy Content Streams"
 date: 2023-04-16 09:00:00 +0000
 show_date: false
 read_time: false
-last_modified_at: 2023-04-16 10:00:00 +0000
+last_modified_at: 2023-04-18 10:00:00 +0000
 header:
   overlay_image: /assets/images/STScI-01GVGH2NDBHPT12FQPQA6AFZGC.png
   overlay_text: "Astronomy Content Streams"
@@ -41,6 +41,6 @@ We offer astronomy content in 'stream' format, meaning you subscribe to a given 
 
 <h1>Media Formats</h1>
 
-All astronomy programs are offered in written, infographic, audio and video formats.  When you subscribe, you are given access to all media types, which one you use is up to you.  You can use one, or all three depending on whether you have a webpage, podcast or YouTube channel.
-![An image](/assets/images/pixel_tracker_logo_120px.jpg){: .align-right}
-~                                                                        
+Eventually, all of our astronomy programs will be offered in written, infographic, audio and video formats. But for now, with Exoplanet Radio, episodes will be in audio format suitable for broadcast over radio.  In the future, when you subscribe, you will be given access to all media types, which one you use is up to you.  You can use one, or all three depending on whether you have a webpage, podcast or YouTube channel.
+
+For now however, audio-only is available for Exoplanet Radio.                                                                       
