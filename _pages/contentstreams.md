@@ -15,7 +15,7 @@ header:
   caption: "Image Caption here"
   actions:
     - label: "Get Notified"
-      url: "/subscribe/"
+      url: "/contact/"
 excerpt: "We're Starting With Audio"
 permalink: "/content/"
 #tagline: "Text below title"
