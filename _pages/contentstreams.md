@@ -21,7 +21,7 @@ permalink: "/content/"
 #tagline: "Text below title"
 ---
 
-<h1>Starting with Radio and Podcasting Content</h1>
+<h1>We're Just Getting Started</h1>
 
 After providing engaging astronomy programming for the various Deep Astronomy channels for over 17 years, we are switching gears and providing our content for syndication to other platforms and we are starting with radio and podcasters.
 
@@ -29,14 +29,14 @@ With our limited resources, we are focussing on our strengths: quality, short-fo
 
 <h1>Our First Astronomy Content Stream: EXOPLANET RADIO</h1>
 
-Exoplanet Radio is a daily 2-4 minute program featuring the exciting new science of planets around other stars.  Each day will highlight an exoplanet and discuss whether life might exist there.  Could life exist here? How far away is it? 
+Exoplanet Radio is a daily 2-4 minute program featuring the exciting new science of planets around other stars.  Each day will highlight an exoplanet and discuss whether life might exist there.  We examine questions like, could life exist here? How far away is it? 
 We also explore the bigger picture:
 - How do astronomers find exoplanets and determine what conditions are there?
 - how many exoplanets do we know about so far?
 - Could we live on another planet in the galaxy?
 - What is the possibility of life elsewhere?
 
-We offer astronomy content in 'stream' format, meaning you subscribe to a given stream and are given access to that content as it comes out.  Each stream has a different posting frequency, for example, Exoplanet Radio offers a new episode every day, while Our Sky at Night is a weekly content stream.
+We offer astronomy content in 'stream' format, meaning you subscribe to a given stream and are given access to that content as it comes out.  Each stream has a different posting frequency. For example, Exoplanet Radio offers a new episode every day, while Our Sky at Night is a weekly content stream.
 
 <h1>Media Formats</h1>
 
