@@ -8,14 +8,11 @@ read_time: false
 last_modified_at: 2023-04-15 10:00:00 +0000
 header:
   overlay_image: /assets/images/STScI-01GVGH2NDBHPT12FQPQA6AFZGC.png
-  overlay_text: "hello"
+  overlay_text: "About Us"
   show_overlay_excerpt: true
   #og_image:
   #overlay_color: green
   caption: "Image Caption here"
-  actions:
-    - label: "Learn More"
-      url: /about.html
 excerpt: "About Deep Astronomy"
 permalink: /about/
 #tagline: "tagline"
@@ -61,5 +58,3 @@ For years, Deep Astronomy was a one person operation (me) doing all the work.  T
 We are focussing our efforts for Exoplanet Radio to become syndicated on radio stations around the U.S. and abroad. At least at first.  Our plans will include influencers, outreach programs and streaming platforms.
 
 As of this writing, things are just getting started so please [Contact Us](/contact/) to keep informed when content becomes available.  We have lots of astronomy programs in production right now, so there will be a lot of changes.
-
-![An image](/assets/images/pixel_tracker_logo_120px.jpg){: .align-right}

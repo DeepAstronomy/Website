@@ -21,8 +21,7 @@ permalink: "/contact/"
 #tagline: "tagline"
 ---
 
-<h1>You Don't Want to Miss Out</h1>
-
+<h1>Don't Miss Out!</h1>
 We are planning on adding lots of content soon, this website is brand new and we will be adding more content streams to choose from as the productions get underway and new episodes become available.  Fill out the info below with questions or to request to be notified when our amazing astronomy content becomes available.
 
 <div id="formkeep-embed" data-formkeep-url="https://formkeep.com/p/01ad5a9782b2ea288350da650a2b8786?embedded=1"></div>

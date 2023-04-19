@@ -21,8 +21,7 @@ permalink: "/content/"
 #tagline: "Text below title"
 ---
 
-
-<h1>What We Offer</h1>
+<h1>Starting with Radio and Podcasting Content</h1>
 
 After providing engaging astronomy programming for the various Deep Astronomy channels for over 17 years, we are switching gears and providing our content for syndication to other platforms and we are starting with radio and podcasters.
 
