@@ -7,4 +7,11 @@ images:
 - ExoplaentRadio-768.png
 - ExoplaentRadio-640.png
 - ExoplaentRadio.png
+- WebsiteBanner-1920.png
+- WebsiteBanner-1600.png
+- WebsiteBanner-1366.png
+- WebsiteBanner-1024.png
+- WebsiteBanner-768.png
+- WebsiteBanner-640.png
+- WebsiteBanner.png
 ---
