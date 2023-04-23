@@ -40,7 +40,7 @@ for folder in FOLDERS.keys():
     knownimages = []
     if os.path.exists(yamlfile):
         stream = open(yamlfile, 'r')
-        data = yaml.load_all(stream)
+        data = yaml.load_all(stream, Loader=yaml.Loader)
         knownimages = next(data)['images'] or []
         stream.close()
 
@@ -73,7 +73,7 @@ for folder in FOLDERS.keys():
             if image.endswith(".jpg") or image.endswith(".jpeg"):
                 #Generate all of the resized versions
                 for size in FOLDERS[folder]:
-                    newsizeimage = imagepathnoext + "-" + str(size) + ".jpg"
+                    newsizeimage = imagenoext + "-" + str(size) + ".jpg"
                     newsizeimagepath = os.path.join(folder, newsizeimage)
 
                     #If our image is say 800px wide, but we're asked to make it 1000px,
@@ -96,7 +96,7 @@ for folder in FOLDERS.keys():
 
                 #Generate all of the resized versions
                 for size in FOLDERS[folder]:
-                    newsizeimage = imagepathnoext + "-" + str(size) + ".png"
+                    newsizeimage = imagenoext + "-" + str(size) + ".png"
                     newsizeimagepath = os.path.join(folder, newsizeimage)
                     #Convert the image
                     if size > width:
