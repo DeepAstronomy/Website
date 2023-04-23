@@ -30,7 +30,7 @@ Radio stations, local TV and live-streaming apps are always on the lookout for c
 
 <h2>Everyone is Interested in Astronomy</h2>
 
-![An image](/assets/images/everyone-loves-astronomy.png){: .align-right}
+![An image](/assets/images/content/everyone-loves-astronomy.png){: .align-right}
 It doesn't matter what your brand focus is, human beings are naturally curious about the universe and our place within it.  Including astronomy content in your program is a natural way to spark interesting conversations with your audience and increase the all-important engagement we all strive to achieve with our online communities. 
 
 Including astronomy content in your communication plan gives you an avenue to spark curiosity and keep your efforts fresh without any extra work. 
