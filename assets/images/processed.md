@@ -1,3 +1,4 @@
 ---
-images: []
+images:
+- everyone-loves-astronomy.png
 ---
