@@ -18,7 +18,7 @@ header:
       url: "/contact/"
 excerpt: "We're Starting With Audio"
 permalink: "/content/"
-#tagline: "Text below title"
+classes: wide
 ---
 
 <h1>We're Just Getting Started</h1>

@@ -18,7 +18,7 @@ header:
   #    url: /contact
 excerpt: "Interested in Using Our Content?"
 permalink: "/contact/"
-#tagline: "tagline"
+classes: wide
 ---
 
 <h1>Don't Miss Out!</h1>
