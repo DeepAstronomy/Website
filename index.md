@@ -2,7 +2,6 @@
 layout: single
 author_profile: false
 title: "Original Astronomy Content"
-date: 2023-08-11 09:00:00 +0000
 show_date: false
 read_time: false
 last_modified_at: 2023-08-11 10:00:00 +0000
