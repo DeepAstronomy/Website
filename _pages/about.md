@@ -16,6 +16,7 @@ header:
 excerpt: "About Deep Astronomy"
 permalink: /about/
 #tagline: "tagline"
+classes: wide
 ---
 <h1>So this is how the story goes... </h1>
 It all started on Labor Day 2006, I had just gotten my first Macbook after decades of avoiding Apple products.
