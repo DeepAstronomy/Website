@@ -27,7 +27,7 @@ We are planning on adding lots of content soon, this website is brand new and we
 <div id="formkeep-embed" data-formkeep-url="https://formkeep.com/p/01ad5a9782b2ea288350da650a2b8786?embedded=1"></div>
 
 <script type="text/javascript" src="https://pym.nprapps.org/pym.v1.min.js"></script>
-<script type="text/javascript" src="https://formkeep-production-herokuapp-com.global.ssl.fastly.net/formkeep-embed.js"></script>
+<script type="text/javascript" src="https://cdn.formkeep.com/formkeep-embed.js"></script>
 
 <!-- Get notified when the form is submitted, add your own code below: -->
 <script>
